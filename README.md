@@ -1,4 +1,5 @@
 ### Hi there, Iam Saidi 👋
+Am student @Uganda Christian University Pursuing a Bachelors Degree in Science in Information Tech
 <img  align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Saidimukasa&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidimukasa&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 <!-- <img align="right" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saidimukasa&theme=highcontrast)]
