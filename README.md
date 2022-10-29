@@ -29,4 +29,4 @@ Am student @Uganda Christian University Pursuing a Bachelors Degree in Science i
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidimukasa&show_icons=true&locale=en&layout=compact" alt="saidimukasa" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saidimukasa&show_icons=true&locale=en" alt="saidimukasa" background colour="black" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saidimukasa&show_icons=true&locale=en" alt="saidimukasa" background colour="black" /></p>
