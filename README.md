@@ -13,7 +13,7 @@ Am student @Uganda Christian University Pursuing a Bachelors Degree in Science i
 
 - 📫 How to reach me **mukasasaidi34@gmail.com**
 
-- ⚡ Fun fact **STAY HUNGRY STAY FOOLISH!**
+<!-- - ⚡ Fun fact **STAY HUNGRY STAY FOOLISH!** -->
 
 
 <h3 align="left">Connect with me:</h3>
