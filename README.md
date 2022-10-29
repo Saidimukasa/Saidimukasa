@@ -3,8 +3,8 @@ Am student @Uganda Christian University Pursuing a Bachelors Degree in Science i
 <h1 align="center">Hi 👋, I'm Saidi</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
-- 🔭 I’m currently working on **Swift development**
-
+<!-- - 🔭 I’m currently working on **Swift development**
+ -->
 - 🌱 I’m currently learning **Reactjs,swift ui**
 
 - 👯 I’m looking to collaborate on **e-commerce app**
@@ -29,4 +29,4 @@ Am student @Uganda Christian University Pursuing a Bachelors Degree in Science i
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidimukasa&show_icons=true&locale=en&layout=compact" alt="saidimukasa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidimukasa&show_icons=true&locale=en" alt="saidimukasa" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saidimukasa&show_icons=true&locale=en" alt="saidimukasa" background colour="black" /></p>
