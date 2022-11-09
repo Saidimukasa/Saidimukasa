@@ -5,12 +5,12 @@ Am student @Uganda Christian University Pursuing a Bachelors Degree in Science i
 
 <!-- - 🔭 I’m currently working on **Swift development**
  -->
-- 🌱 I’m currently learning **Reactjs,swift ui**
+<!-- - 🌱 I’m currently learning **Reactjs,swift ui**
 
 - 👯 I’m looking to collaborate on **e-commerce app**
 
 - 💬 Ask me about **c_programming,js,python**
-
+ -->
 - 📫 How to reach me **mukasasaidi34@gmail.com**
 
 <!-- - ⚡ Fun fact **STAY HUNGRY STAY FOOLISH!** -->
