@@ -1,4 +1,4 @@
-### Hi there, Iam Saidi 👋
+<!-- ### Hi there, Iam Saidi 👋
 Am student @Uganda Christian University Pursuing a Bachelors Degree in Science in Information Tech
 <!-- <h1 align="center">Hi 👋, I'm Saidi</h1> -->
 <h3 align="center">A passionate frontend developer from Uganda</h3>
@@ -31,3 +31,4 @@ Am student @Uganda Christian University Pursuing a Bachelors Degree in Science i
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidimukasa&show_icons=true&locale=en&layout=compact" alt="saidimukasa" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saidimukasa&show_icons=true&locale=en" alt="saidimukasa" width = "400" height = "300" /></p>
+ -->
