@@ -1,7 +1,7 @@
 <!-- ### Hi there, Iam Saidi 👋
 Am student @Uganda Christian University Pursuing a Bachelors Degree in Science in Information Tech
 <!-- <h1 align="center">Hi 👋, I'm Saidi</h1> -->
-<h3 align="center">A passionate frontend developer from Uganda</h3>
+<h3 align="center">An  aspiring developer from Uganda</h3>
 
 <!-- - 🔭 I’m currently working on **Swift development**
  -->
