@@ -1,6 +1,6 @@
-<!-- ### Hi there, Iam Saidi 👋
+ ### Hi there, Iam Saidi 👋
 Am student @Uganda Christian University Pursuing a Bachelors Degree in Science in Information Tech
-<!-- <h1 align="center">Hi 👋, I'm Saidi</h1> -->
+ <h1 align="center">Hi 👋, I'm Saidi</h1>
 <h3 align="center">An  aspiring developer from Uganda</h3>
 
 <!-- - 🔭 I’m currently working on **Swift development**
@@ -13,7 +13,7 @@ Am student @Uganda Christian University Pursuing a Bachelors Degree in Science i
  -->
 - 📫 How to reach me **mukasasaidi34@gmail.com**
 
-<!-- - ⚡ Fun fact **STAY HUNGRY STAY FOOLISH!** -->
+ ⚡ Fun fact **STAY HUNGRY STAY FOOLISH!
 
 <!-- show code -->
 <h3 align="left">Connect with me:</h3>
