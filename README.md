@@ -9,7 +9,7 @@ Focusing on making something nice !
 * 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [My portfolio](http://mukasasaidi.netlify.app)
 * ✉️  You can contact me at [mukasasaidi34@gmail.com](mailto:mukasasaidi34@gmail.com)
-* 🚀  I'm currently working on [DOC EASE (TELEHEALTH APP)](http://docease.netlfy.app)
+* 🚀  I'm currently working on [DOC EASE (TELEHEALTH APP)](http://docease.netlify.app)
 * 🧠  I'm learning Express js, Nextjs and Indesign
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Stay Hungry, stay foolish
