@@ -6,7 +6,7 @@
 - 🌍 Based in **Kampala, Uganda**  
 - ✨ [Portfolio](http://mukasasaidi.netlify.app)  
 - 📧 [Email me](mailto:mukasasaidi34@gmail.com)  
-- 🚀 Currently working on [nFix)](http://nfixapp.com)  
+- 🚀 Currently working on [nFix](http://nfixapp.com)  
 - 🎓 Learning **Express.js**, **Next.js**, **Adobe InDesign**, **Photoshop** 
 - 🤝 Open to collaboration  
 - ⚡ "Stay Hungry, Stay Foolish"
