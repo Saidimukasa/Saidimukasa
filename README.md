@@ -6,8 +6,8 @@
 - 🌍 Based in **Kampala, Uganda**  
 - ✨ [Portfolio](http://mukasasaidi.netlify.app)  
 - 📧 [Email me](mailto:mukasasaidi34@gmail.com)  
-- 🚀 Currently working on [DOC EASE (Telehealth App)](http://docease.netlify.app)  
-- 🎓 Learning **Express.js**, **Next.js**, **Adobe InDesign**  
+- 🚀 Currently working on [nFix)](http://nfixapp.com)  
+- 🎓 Learning **Express.js**, **Next.js**, **Adobe InDesign**, **Photoshop** 
 - 🤝 Open to collaboration  
 - ⚡ "Stay Hungry, Stay Foolish"
 
