@@ -6,7 +6,7 @@
 - 🌍 Based in **Kampala, Uganda**  
 - ✨ [Portfolio](http://mukasasaidi.netlify.app)  
 - 📧 [Email me](mailto:mukasasaidi34@gmail.com)  
-- 🚀 Currently working on UG EDUCATION DATA PORTAL (http://ugopeneducationdata.uict.ac.ug/)  
+- 🚀 Currently working on UG EDUCATION DATA PORTAL [http://ugopeneducationdata.uict.ac.ug/]
 - 🎓 Learning **Express.js**, **Next.js**, **Adobe InDesign**, **Photoshop** 
 - 🤝 Open to collaboration  
 - ⚡ "Stay Hungry, Stay Foolish"
