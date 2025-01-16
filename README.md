@@ -12,7 +12,7 @@
 - ⚡ "Stay Hungry, Stay Foolish"
 
 ### 🚀 Skills
-- **Languages**: C, C#, JavaScript, TypeScript, Python  
+- **Languages**: C, C#, JavaScript, TypeScript,Javascript,Python  
 - **Frameworks**: React, Next.js, Express  
 - **Tools**: Git, Docker, Vite, TailwindCSS, Material UI  
 - **Design**: Photoshop, Illustrator, Figma, Adobe XD  
